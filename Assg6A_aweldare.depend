@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1509215868 source:z:\assg6a_aweldare\randgen.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<string>
+	<iomanip>
+	"student.h"
+
+1509144570 z:\assg6a_aweldare\student.h
+
+1509213367 source:z:\assg6a_aweldare\student.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<string>
+	<iomanip>
+	"student.h"
+
+1509212103 source:z:\assg6a_aweldare\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<string>
+	<iomanip>
+	"student.h"
+	"randgen.h"
+
+1509144401 z:\assg6a_aweldare\randgen.h
+
