@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1509214874 source:z:\assg6b_aweldare\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<string>
+	<iomanip>
+	"readAndWrite.h"
+	"calculations.h"
+
+1509215722 source:z:\assg6b_aweldare\readandwrite.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<string>
+	<iomanip>
+	"readAndWrite.h"
+
+1509169392 z:\assg6b_aweldare\readandwrite.h
+
+1509215722 source:z:\assg6b_aweldare\calculations.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<string>
+	<iomanip>
+	"readAndWrite.h"
+
+1509213937 z:\assg6b_aweldare\calculations.h
+
